@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "sample",
+    "repo": "wshirey/openapi-ci-demo",
+    "splitSpec": true,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}

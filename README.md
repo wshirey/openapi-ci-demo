@@ -12,7 +12,7 @@
 7. **[Optional]** You can setup [custom domain](https://help.github.com/articles/using-a-custom-domain-with-github-pages/) (just create `web/CNAME` file)
 8. Start writing/editing your OpenAPI spec: check out [usage](#usage) section below
 9. **[Optional]** If you document public API consider adding it into [APIs.guru](https://APIs.guru) directory using [this form](https://apis.guru/add-api/).
-10. Delete this section
+10. Delete this section :smile: :smile:
 
 ## Links
 
